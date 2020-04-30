@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+target/generated-sources/
+target/generated-test-sources/
+.idea
+
+.classpath
+.project
+.settings/
+target/
+*.xlsx
+*.iml
